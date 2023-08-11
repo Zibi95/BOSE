@@ -18,9 +18,15 @@ Layout and all the pictures where taken from this [mockup](https://www.figma.com
 The Landing Page includes the following features:
 
 -A responsive layout that adjusts to different screen sizes,
+
 -A smooth tranistions and scroll behavior,
+
 -A navigation that collapses into a burger menu,
+
 -A header section with a large image and call button,
+
 -A recommended section with images and example prices,
+
 -A categories section with images and descriptions,
+
 -A contact section with a form and submit button
